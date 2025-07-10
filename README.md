@@ -6,11 +6,16 @@ This project replicates the key functionalities of **Splitwise**, focusing on **
 
 Features:
 -Add users and maintain individual ledgers.
+
 -Record expenses with **equal or exact splits**.
+
 -Real-time tracking of who owes whom and how much.
+
 -Easily extendable to add new split types or payment modes.
 
 Learning Outcomes:
 -Practiced real-world Low-Level Design (LLD) in C++
+
 -Applied OOP principles in building scalable systems
+
 -Understood how to model real-world scenarios in code
