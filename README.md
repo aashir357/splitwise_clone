@@ -5,6 +5,7 @@ A lightweight, object-oriented **Splitwise clone** implemented in C++, designed 
 This project replicates the key functionalities of **Splitwise**, focusing on **design clarity**, **scalability**, and **extensibility** rather than a UI or persistent database. It’s ideal for practicing **LLD concepts** such as class design, object relationships, and clean separation of concerns.
 
 Features:
+
 -Add users and maintain individual ledgers.
 
 -Record expenses with **equal or exact splits**.
@@ -14,6 +15,7 @@ Features:
 -Easily extendable to add new split types or payment modes.
 
 Learning Outcomes:
+
 -Practiced real-world Low-Level Design (LLD) in C++
 
 -Applied OOP principles in building scalable systems
